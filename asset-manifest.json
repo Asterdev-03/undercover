@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/undercover/static/css/main.e6c13ad2.css",
+    "main.js": "/undercover/static/js/main.8d31cdd0.js",
+    "index.html": "/undercover/index.html",
+    "main.e6c13ad2.css.map": "/undercover/static/css/main.e6c13ad2.css.map",
+    "main.8d31cdd0.js.map": "/undercover/static/js/main.8d31cdd0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8d31cdd0.js"
+  ]
+}
